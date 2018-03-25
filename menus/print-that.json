@@ -1,0 +1,21 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Print That!",
+        "command": "print-that:printSelected"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "Print That!",
+          "command": "print-that:printSelected"
+        }
+      ]
+    }
+  ]
+}

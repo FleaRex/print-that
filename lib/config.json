@@ -1,0 +1,27 @@
+{
+  "jsPrint": {
+    "description": "JS print statement.",
+    "type": "string",
+    "default": "console.log(%)"
+  },
+  "phpPrint": {
+    "description": "PHP print statement.",
+    "type": "string",
+    "default": "print_r(%);"
+  },
+  "pythonPrint": {
+    "description": "Python print statement.",
+    "type": "string",
+    "default": "print(%)"
+  },
+  "javaPrint": {
+    "description": "Java print statement.",
+    "type": "string",
+    "default": "System.out.println(%);"
+  },
+  "defaultPrint": {
+    "description": "Default print statement.",
+    "type": "string",
+    "default": "print %"
+  }
+}

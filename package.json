@@ -1,0 +1,18 @@
+{
+  "name": "print-that",
+  "main": "./lib/print-that",
+  "version": "0.0.0",
+  "description": "Print That!",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "print-that:printSelected"
+  },
+  "repository": "https://github.com/FleaRex/print-that",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
